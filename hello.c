@@ -15,7 +15,7 @@
 #include <linux/errno.h>
 #include <linux/stat.h>
 
-MODULE_AUTHOR("Your Name <youremail@example.com>");
+MODULE_AUTHOR("Danyil Herasymchuk");
 MODULE_DESCRIPTION("Hello module (lab 4): prints Hello N times, records times");
 MODULE_LICENSE("Dual BSD/GPL");
 
